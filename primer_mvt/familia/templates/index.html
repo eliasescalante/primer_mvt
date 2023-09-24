@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Familia</title>
+</head>
+<body>
+    <h1>Familiares</h1>
+
+    <table class="table">
+        <thead>
+          <tr style="background-color: blueviolet;">
+            <th scope="col">fecha de nacimiento</th>
+            <th scope="col">nombre</th>
+            <th scope="col">parentesco</th>
+            <th scope="col">edad</th>
+          </tr>
+        </thead>
+        {% for familiar in familiares%}
+        <tbody>
+          <tr >
+            <td>{{familiar.nacimiento}}</td>
+            <td>{{familiar.nombre}}</td>
+            <td>{{familiar.tipo}}</td>
+            <td>{{familiar.edad}}</td>
+          </tr>
+          <tr>
+        </tbody>
+        {%endfor%}
+      </table>    
+</body>
+</html>
