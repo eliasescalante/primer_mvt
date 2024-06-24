@@ -12,4 +12,4 @@
 
 ## Preview
 
-![captura](https://github.com/eliasescalante/calculadora_basica/blob/main/Capture.JPG)
+![captura](https://github.com/eliasescalante/primer_mvt/blob/master/capture.JPG)
