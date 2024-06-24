@@ -9,3 +9,7 @@
 - Aplicacion del modelo MVT
 
 ------
+
+## Preview
+
+![captura](https://github.com/eliasescalante/calculadora_basica/blob/main/Capture.JPG)
