@@ -1,8 +1,11 @@
-# primer_mvt
+# Practica con DJANGO
 
 --------
-practicando un poco con Django
+## Segunda pre-entrega
 
-segunda pre-entrega 
+- Estructura basica del framework
+- edicion de templates
+- trabajo con urls.py
+- Aplicacion del modelo MVT
 
 ------
